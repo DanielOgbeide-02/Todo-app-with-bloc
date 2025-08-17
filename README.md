@@ -23,9 +23,9 @@ Backend: flutter Isar
 State management: bloc
 
 
-Recording 📸
+Link to Recording 📸
 
-https://github.com/user-attachments/assets/194a2ea6-9c73-489b-814f-40d84e701eaa
+https://drive.google.com/drive/folders/1MNdGkzBeCR_xf7dXC9-1G_OwUVP0-UR_?usp=sharing
 
 
 Status 📌
